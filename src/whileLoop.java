@@ -6,7 +6,7 @@ public class whileLoop {
         //While loop = repeat code forever
         //              while condition remains true
 
-        Scanner scanner = new scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         String name = "";
         while(name.isEmpty()){
